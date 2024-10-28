@@ -1,0 +1,7 @@
+experimentSet,path,publicationName
+HEK293_SMG567_KO_KD_Boehm_2021,/home/volker/gencode.v42.datasets/2020_03_NMD_VB,Boehm et al. 2021
+HEK293_UPF3_dKO_Wallmeroth_2022,/home/volker/gencode.v42.datasets/2020_02_UPF3_DW,Wallmeroth et al. 2022
+HCT116_UPF1_AID_degradation_this_Study,/home/volker/gencode.v42.datasets/2023_UPF1_AID_DW,UPF1 AID degradation
+HCT116_UPF1_FKBP_degradation_this_Study,/home/volker/gencode.v42.datasets/2023_UPF1_FKBP_HCT_DW,UPF1 FKBP HCT116 degradation
+HEK293_UPF1_FKBP_degradation_this_Study,/home/volker/gencode.v42.datasets/2023_UPF1_FKBP_HEK_DW,UPF1 FKBP HEK293 degradation
+HCT116_SMG89KO_SMG1i_this_Study,/home/volker/gencode.v42.datasets/2023_11_SMG89_SK,SMG89 SMG1i

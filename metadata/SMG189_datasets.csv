@@ -1,0 +1,7 @@
+experimentSet,publicationName,seq_type,meta_repository,meta_ID,fastq_repository,fastq_ID
+HEK293_SMG567_KO_KD_Boehm_2021,Boehm et al. 2021,SR_RNA-Seq,ArrayExpress,E-MTAB-9330,ENA,ERP122822
+HEK293_UPF3_dKO_Wallmeroth_2022,Wallmeroth et al. 2022,SR_RNA-Seq,ArrayExpress,E-MTAB-10716,ENA,ERP130415
+HCT116_UPF1_AID_degradation,UPF1 AID degradation,SR_RNA-Seq,ArrayExpress,E-MTAB-13788,ENA,ERP157495
+HCT116_UPF1_FKBP_degradation,UPF1 FKBP HCT116 degradation,SR_RNA-Seq,ArrayExpress,E-MTAB-13829,ENA,ERP157628
+HEK293_UPF1_FKBP_degradation,UPF1 FKBP HEK293 degradation,SR_RNA-Seq,ArrayExpress,E-MTAB-13829,ENA,ERP157628
+HCT116_SMG89KO_SMG1i_Kueckelmann_2024,SMG89 SMG1i,SR_RNA-Seq,ArrayExpress,E-MTAB-13949,ENA,ERP159404
