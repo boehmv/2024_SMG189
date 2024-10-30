@@ -7,7 +7,7 @@ Preprint:
 
 ## Graphical abstract
 
-<img src="https://github.com/boehmv/2024_SMG189/blob/main/doc/Kueckelmann_2024_Model.png?raw=true" max-height="300">
+<img src="https://github.com/boehmv/2024_SMG189/blob/main/doc/Kueckelmann_2024_Model.png?raw=false" max-height="300">
 
 ## Scope
 This repository primarily aims to provide transparent insight into the high-throughput analysis steps used in the study of SMG8- and/or SMG9-KO, SMG8-deltaKID and SMG1i treatment in human cells (all high-throughput data obtained from colon cancer HCT116 cell line). :warning: **NOTE:** The complete pipeline is currently not optimized to run on different computing infrastructures in a standardized/portable manner. This means that all required packages have to be installed manually and configured accordingly to reproduce the results.
